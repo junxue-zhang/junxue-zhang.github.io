@@ -19,52 +19,80 @@ redirect_from:
 
 Welcome to my homepage. I am currently a PhD Candidate at Hong Kong University of Science and Technology, Department of Industrial Engineering and Decision Analytics (IEDA).
 
+My research interest includes *Supply Chain Management* and *Service Operations*.
+
+****
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
 - *2020.09 - now*,**Hong Kong University of Science and Technology** (Hong Kong SAR, China)
 
-  Doctor of Philosophy in Decision Analytics (Ongoing)
+  Doctor of Philosophy in Decision Analytics (Ongoing), RedBird Academic Excellence Award, Postgraduate Studentship
 
-  Master of Philosophy in Decision Analytics
+  Master of Philosophy in Decision Analytics, Postgraduate Studentship
 
   Advisors: [Chenguang (Allen) Wu](https://allenwu.people.ust.hk/) and [Ying-Ju Chen](https://imchen.people.ust.hk/)
 
 - *2018.09 - 2019.06*, **Hong Kong University** (Hong Kong SAR, China)
   
-  Master of Science in Business Analytics
+  Master of Science in Business Analytics, Dean’s Honours List, BA Program Scholarship
 
 - *2016.08 - 2018.05*, **Purdue University** (West Lafayette, IN, USA)
 
-  Bachelor of Science in Mechanical Engineering
-
+  Bachelor of Science in Mechanical Engineering, Founded by SJTU-Purdue 2+2 Dual Degree Program, Dean’s List & Semester Honors, Alumni Undergraduate Students of [uSMART](https://engineering.purdue.edu/uSMART/people)
 - *2014.09 - 2018.06*, **Shanghai Jiao Tong University** (Shanghai, China)
 
-  Bachelor of Science in Mechanical Engineering
+  Bachelor of Science in Mechanical Engineering,  Cummins Scholarship, United Water Scholarship
 
-# 📝 Selected Works 
+# ✒️ Selected Works 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Retailer-driven Bundling in Light of Strategic Inventories**, *Working in Progress*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+  **Junxue Zhang**, Allen Wu, Ying-Ju Chen
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+  Presented at MSOM 2024 (University of Minnesota)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Queue Visibility Decisions in Customer-Intensive Services**, *Working in Progress*
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  **Junxue Zhang**, Allen Wu, Ying-Ju Chen
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  Presented at MSOM 2024 (University of Minnesota), POMS-HK 2024 (HKUST)
 
-# 💻 Service
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- [Bundling with Multiple Add-ons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991578), *Manufacturing & Service Operations Management*, Major Revision
+
+  **Junxue Zhang**, Allen Wu, Duo Shi, Ying-Ju Chen
+
+  Presented at POMS-HK 2023 (HK PolyU)
+
+- [Microscale Two-Dimensional (2D) Temperature Mapping by Ratiometric Fluorescence Imaging under Orthogonal Excitations](https://www.sciencedirect.com/science/article/pii/S0894177718301821), *Experimental Thermal and Fluid Science*, 94:168-171, 2018
+
+  Chen Chen, Tong Shen, Zhidong Du, **Junxue Zhang*, Jicheng Wang, Amy Marconnet, Liang Pan
+
+# 🥇 Awards and Honors
+- Teaching Assistant Excellence Award (HKUST, 2024)
+- RedBird Academic Excellence Award for Continuing PhD (HKUST, 2024)
+- Dean’s Honours List, BA Program Scholarship (HKU, 2019)
+- Dean’s List & Semester Honors (Purdue University, 2016-18)
+- Cummins Scholarship, United Water Scholarship (SJTU, 2015-16)
+
+# 💻 Teaching
+
+Teaching Assistant for
+
+-  **Integrated Production Systems** (IEDA 4100), Spring 2021-25 Instructor: Allen Wu
+
+- **Systems Risk Management** (IEDA 4510), Fall 2023, Instructor: Allen Wu
+
+- **Demand and Supply Analytics** (IEDA 3460), Fall 2021-22, Instructor: Allen Wu
+
+- **Introduction to ME Design** (ME 263), Fall 2017, Instructor: Tahira Reid Smith
+
+
+# 🧰 Services 
+-  Reviewer for *Naval Research Logistics*, *Production and Operations Management*, *Manufacturing & Service Operations Management*
+- Session Chair at POMS 2022
+- Residential Hall Tutor at HKUST, 2023- Present
+
+# 🧬 Interests
+- Running: Full-Marathon runner at SCHKM 2025 (PB: 04:39:32), Half-Marathon runner at SCHKM 2024 (PB: 02:06:32).
