@@ -61,20 +61,13 @@ My research interest includes *OM-Marketing Interface*, *Supply Chain Management
 
 # 💻 Teaching
 
-Teaching Assistant for
+- Teaching Assistant at HKUST for *Integrated Production Systems* (IEDA 4100, Spring 2021-25), *Systems Risk Management* (IEDA 4510, Fall 2023), *Demand and Supply Analytics* (IEDA 3460, Fall 2021-22)
 
--  **Integrated Production Systems** (IEDA 4100), Spring 2021-25 Instructor: Allen Wu
-
-- **Systems Risk Management** (IEDA 4510), Fall 2023, Instructor: Allen Wu
-
-- **Demand and Supply Analytics** (IEDA 3460), Fall 2021-22, Instructor: Allen Wu
-
-- **Introduction to ME Design** (ME 263), Fall 2017, Instructor: Tahira Reid Smith
+- Teaching Assistant at Purdue University for *Introduction to ME Design* (ME 263, Fall 2017)
 
 
 # 🧰 Services 
 -  Reviewer for *Naval Research Logistics*, *Production and Operations Management*, *Manufacturing & Service Operations Management*
-- Session Chair at POMS-HK 2022
 - Residential Hall Tutor at HKUST, 2023- Present
 
 # 🧬 Interests
