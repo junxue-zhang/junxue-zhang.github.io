@@ -19,30 +19,21 @@ redirect_from:
 
 Welcome to my homepage. I am currently a PhD Candidate at Hong Kong University of Science and Technology, Department of Industrial Engineering and Decision Analytics (IEDA).
 
-My research interest includes *Supply Chain Management* and *Service Operations*.
+My research interest includes *OM-Marketing Interface*, *Supply Chain Management* and *Service Operations*. Link to [CV](cv_junxue.pdf) (Updated 2025.03).
 
 ****
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2020.09 - now*,**Hong Kong University of Science and Technology** (Hong Kong SAR, China)
-
-  Doctor of Philosophy in Decision Analytics (Ongoing), RedBird Academic Excellence Award, Postgraduate Studentship
-
-  Master of Philosophy in Decision Analytics, Postgraduate Studentship
+- *2020.09 - present*, **Hong Kong University of Science and Technology** (Hong Kong SAR, China), Doctor of Philosophy in Decision Analytics (Ongoing) and Master of Philosophy in Decision Analytics (Grudated)
 
   Advisors: [Chenguang (Allen) Wu](https://allenwu.people.ust.hk/) and [Ying-Ju Chen](https://imchen.people.ust.hk/)
 
-- *2018.09 - 2019.06*, **Hong Kong University** (Hong Kong SAR, China)
-  
-  Master of Science in Business Analytics, Dean’s Honours List, BA Program Scholarship
+- *2018.09 - 2019.06*, **Hong Kong University** (Hong Kong SAR, China), Master of Science in Business Analytics
 
-- *2016.08 - 2018.05*, **Purdue University** (West Lafayette, IN, USA)
+- *2016.08 - 2018.05*, **Purdue University** (West Lafayette, IN, USA), Bachelor of Science in Mechanical Engineering (Founded by SJTU-Purdue 2+2 Dual Degree Program), Alumni Undergraduate Students of [uSMART](https://engineering.purdue.edu/uSMART/people)
 
-  Bachelor of Science in Mechanical Engineering, Founded by SJTU-Purdue 2+2 Dual Degree Program, Dean’s List & Semester Honors, Alumni Undergraduate Students of [uSMART](https://engineering.purdue.edu/uSMART/people)
-- *2014.09 - 2018.06*, **Shanghai Jiao Tong University** (Shanghai, China)
-
-  Bachelor of Science in Mechanical Engineering,  Cummins Scholarship, United Water Scholarship
+- *2014.09 - 2018.06*, **Shanghai Jiao Tong University** (Shanghai, China), Bachelor of Science in Mechanical Engineering
 
 # ✒️ Selected Works 
 
@@ -59,7 +50,7 @@ My research interest includes *Supply Chain Management* and *Service Operations*
 
   Presented at MSOM 2024 (University of Minnesota), POMS-HK 2024 (HKUST)
 
-- [Bundling with Multiple Add-ons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991578), *Manufacturing & Service Operations Management*, Major Revision
+- [Bundling with Multiple Add-ons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991578), Major Revision at *Manufacturing & Service Operations Management*
 
   **Junxue Zhang**, Allen Wu, Duo Shi, Ying-Ju Chen
 
@@ -91,7 +82,7 @@ Teaching Assistant for
 
 # 🧰 Services 
 -  Reviewer for *Naval Research Logistics*, *Production and Operations Management*, *Manufacturing & Service Operations Management*
-- Session Chair at POMS 2022
+- Session Chair at POMS-HK 2022
 - Residential Hall Tutor at HKUST, 2023- Present
 
 # 🧬 Interests
