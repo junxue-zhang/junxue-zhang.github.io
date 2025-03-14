@@ -31,7 +31,7 @@ My research interest includes *OM-Marketing Interface*, *Supply Chain Management
 
 - *2018.09 - 2019.06*, **Hong Kong University** (Hong Kong SAR, China), Master of Science in Business Analytics
 
-- *2016.08 - 2018.05*, **Purdue University** (West Lafayette, IN, USA), Bachelor of Science in Mechanical Engineering (Founded by SJTU-Purdue 2+2 Dual Degree Program), Alumni Undergraduate Students of [uSMART](https://engineering.purdue.edu/uSMART/people)
+- *2016.08 - 2018.05*, **Purdue University** (West Lafayette, IN, USA), Bachelor of Science in Mechanical Engineering (Founded by SJTU-Purdue 2+2 Dual Degree Program), Alumni of [uSMART](https://engineering.purdue.edu/uSMART/people) Research Team
 
 - *2014.09 - 2018.06*, **Shanghai Jiao Tong University** (Shanghai, China), Bachelor of Science in Mechanical Engineering
 
