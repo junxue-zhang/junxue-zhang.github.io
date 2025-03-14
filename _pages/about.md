@@ -38,27 +38,19 @@ My research interest includes *OM-Marketing Interface*, *Supply Chain Management
 # ✒️ Selected Works 
 
 
-- **Retailer-driven Bundling in Light of Strategic Inventories**, *Working in Progress*
-
-  **Junxue Zhang**, Allen Wu, Ying-Ju Chen
+- **Retailer-driven Bundling in Light of Strategic Inventories**, *Working in Progress*, **Junxue Zhang**, Allen Wu, Ying-Ju Chen
 
   Presented at MSOM 2024 (University of Minnesota)
 
-- **Queue Visibility Decisions in Customer-Intensive Services**, *Working in Progress*
-
-  **Junxue Zhang**, Allen Wu, Ying-Ju Chen
+- **Queue Visibility Decisions in Customer-Intensive Services**, *Working in Progress*, **Junxue Zhang**, Allen Wu, Ying-Ju Chen
 
   Presented at MSOM 2024 (University of Minnesota), POMS-HK 2024 (HKUST)
 
-- [Bundling with Multiple Add-ons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991578), Major Revision at *Manufacturing & Service Operations Management*
-
-  **Junxue Zhang**, Allen Wu, Duo Shi, Ying-Ju Chen
+- [Bundling with Multiple Add-ons](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4991578), Major Revision at *Manufacturing & Service Operations Management*, **Junxue Zhang**, Allen Wu, Duo Shi, Ying-Ju Chen
 
   Presented at POMS-HK 2023 (HK PolyU)
 
-- [Microscale Two-Dimensional (2D) Temperature Mapping by Ratiometric Fluorescence Imaging under Orthogonal Excitations](https://www.sciencedirect.com/science/article/pii/S0894177718301821), *Experimental Thermal and Fluid Science*, 94:168-171, 2018
-
-  Chen Chen, Tong Shen, Zhidong Du, **Junxue Zhang*, Jicheng Wang, Amy Marconnet, Liang Pan
+- [Microscale Two-Dimensional (2D) Temperature Mapping by Ratiometric Fluorescence Imaging under Orthogonal Excitations](https://www.sciencedirect.com/science/article/pii/S0894177718301821), *Experimental Thermal and Fluid Science*, 94:168-171, 2018, Chen Chen, Tong Shen, Zhidong Du, **Junxue Zhang**, Jicheng Wang, Amy Marconnet, Liang Pan
 
 # 🥇 Awards and Honors
 - Teaching Assistant Excellence Award (HKUST, 2024)
@@ -86,4 +78,4 @@ Teaching Assistant for
 - Residential Hall Tutor at HKUST, 2023- Present
 
 # 🧬 Interests
-- Running: Full-Marathon runner at SCHKM 2025 (PB: 04:39:32), Half-Marathon runner at SCHKM 2024 (PB: 02:06:32).
+- Running: Full-Marathon runner at SCHKM 2025 (PB: 04:39:32), Half-Marathon runner at SCHKM 2024 (PB: 02:06:32)
